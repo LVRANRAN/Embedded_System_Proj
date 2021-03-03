@@ -6,11 +6,7 @@ of this, many of us have become sedentary and are suffering from lack of suffici
 exercise causing fatigue and obesity creating the need for new exercising options. The
 objective of this semester’s embedded challenge is to use the data collected from a
 single accelerometer (on your microcontroller board) to record body movements to
-identify one of 4 exercises:
-** Situps
-** Pushups
-** Jumping Jacks
-** Squats
+identify one of 4 exercises: Situps, Pushups, Jumping Jacks, Squats
 * The device must be able to detect all 4 exercises and can be placed anywhere
 on the body.
 * You must use some indication method (4 LEDs?) to specify that a specific
